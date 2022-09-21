@@ -15,6 +15,6 @@ My go-to tool is Python, but I also know some Matlab and I'm starting take some 
 
 Currently I am on my final year of Ph.D. at Université de Lorraine, in Nancy, France, under supervision of Prof. Chaput and Prof. Lacroix, working on a Python package to simulate phonon transport and optimise nanodevices. Here is a sneak peek:
 
-![](/fig/simulation.gif)
+![](/simulation.gif)
 
 If you are interested to have a coffee and talk about projects, please send me a message.
