@@ -11,9 +11,9 @@ My name is Bruno, I am a mechanical engineer from Brazil. My thing is computatio
 
 Besides that, I am interested in artificial intelligence and optimisation applications and almost any system modelling really, for the pure fun of it.
 
-My go-to tool is Python, but I also know some Matlab and I'm starting take some baby steps trhough C++ territory when the time allows it.
+My go-to tool is Python, but I also know some Matlab and I'm starting to take some baby steps trhough C++ territory when the time allows me to.
 
-Currently I am on my final year of Ph.D. at Université de Lorraine, in Nancy, France, under supervision of Prof. Chaput and Prof. Lacroix, working on a Python package to simulate phonon transport and optimise nanodevices. Here is a sneak peek:
+Currently I am on my final year of Ph.D. at Université de Lorraine, in Nancy, France, under supervision of Prof. Chaput and Prof. Lacroix, working on a Python package to simulate phonon transport and optimise semiconductor nanodevices. Here is a sneak peek:
 
 ![](/simulation.gif)
 
