@@ -1,7 +1,9 @@
 # Bruno Hartmann da Silva
-### Ph.D. student - Université de Lorraine - France / M.Sc. Mechanical Engineering - Federal University of Rio Grande do Sul - Brazil
+**Ph.D. student - Université de Lorraine - France**
 
-=========================================================================================
+**M.Sc. Mechanical Engineering - Federal University of Rio Grande do Sul - Brazil**
+
+<p>&nbsp</p>
 
 Hey, there!
 
@@ -9,6 +11,10 @@ My name is Bruno, I am a mechanical engineer from Brazil. My thing is computatio
 
 Besides that, I am interested in artificial intelligence and optimisation applications and almost any system modelling really, for the pure fun of it.
 
-Currently I am on my final year of Ph.D. at Université de Lorraine, in Nancy, France, under supervision of Prof. Chaput and Prof. Lacroix, working on a Python package to simulate phonon transport and optimise nanodevices.
+My go-to tool is Python, but I also know some Matlab and I'm starting take some baby steps trhough C++ territory when the time allows it.
 
-If you are interested please send a message.
+Currently I am on my final year of Ph.D. at Université de Lorraine, in Nancy, France, under supervision of Prof. Chaput and Prof. Lacroix, working on a Python package to simulate phonon transport and optimise nanodevices. Here is a sneak peek:
+
+![](/fig/simulation.gif)
+
+If you are interested to have a coffee and talk about projects, please send me a message.
