@@ -1,10 +1,3 @@
-# Bruno Hartmann da Silva
-**Ph.D. student - Université de Lorraine - France**
-
-**M.Sc. Mechanical Engineering - Federal University of Rio Grande do Sul - Brazil**
-
-<p>&nbsp</p>
-
 Hey, there!
 
 My name is Bruno, I am a mechanical engineer from Brazil. My thing is computational modelling in general, but focused on transport phenomena, such as fluid mechanics and heat transfer, as well as the optimisation of the systems that comprise them.
