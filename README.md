@@ -6,8 +6,8 @@ Besides that, I am interested in artificial intelligence and optimisation applic
 
 My go-to tool is Python for its flexibility, but I also know some Matlab and I'm starting to take some baby steps through C++ territory when the time allows me to, so I can speed things up when needed.
 
-Currently I am on my final year of Ph.D. at Université de Lorraine, under supervision of Prof. Laurent Chaput and Prof. David Lacroix. I am working on a Python code to simulate phonon transport and optimise semiconductor nanodevices. When it is done, it should be flexible enough to run in almost any geometry and completely automated so that we can leave it doing its job while we turn coffee into other stuff without worrying. There is a sneak peek just below this introduction.
+Currently I am on my final year of Ph.D. at Université de Lorraine, under supervision of Prof. Laurent Chaput and Prof. David Lacroix. I am working on a Python code to simulate phonon transport and optimise semiconductor nanodevices. When it is done, it should be flexible enough to run in almost any geometry and completely automated so that we can leave it doing its job while we turn coffee into other stuff without worrying. There is a sneak peek just below.
 
-If you are interested to have a coffee and talk about projects, please send me a message on my socials. Cheers!
+If you are interested to have a coffee and talk about ideas, please send me a message on my socials. Cheers!
 
 ![](/simulation.gif)
