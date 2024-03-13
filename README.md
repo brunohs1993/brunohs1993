@@ -1,6 +1,6 @@
 # Hey, there!
 
-My name is Bruno, I am a mechanical engineer and a PhD in Energy and Mechanics. My thing is computational modelling in general, but mostly focused on transport phenomena, such as fluid mechanics and heat transfer, as well as the optimisation of the systems that involve them.
+My name is Bruno, I am a mechanical engineer with a PhD in Energy and Mechanics. My thing is computational modelling in general, but mostly focused on transport phenomena, such as fluid mechanics and heat transfer, as well as the optimisation of the systems that involve them.
 
 Besides that, I am interested in artificial intelligence and optimisation applications and almost any system modelling really, for the pure fun of it.
 
